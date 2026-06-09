@@ -1,7 +1,7 @@
 # FunLearnLab: Smart Voice Learning Toy Main Board
 
 ## 1. Project Overview & System Requirements
-Designed and engineered a production-ready, compact 4-layer main PCB for an offline-focused smart educational toy targeted at children aged 3–6
+Designed and engineered a production-ready, compact 2-layer main PCB for an offline-focused smart educational toy targeted at children aged 3–6
 
 ### Key Constraints & Requirements:
 * **Form Factor:** Compact design constrained to 6cm x 6cm or 8cm x 8cm to seamlessly fit the toy enclosure.
